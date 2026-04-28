@@ -1,0 +1,23 @@
+# Personal voice profile and content calendar — never commit user's actual data
+fb-page-translator/style_profile.md
+fb-page-translator/content_plan.md
+
+# Backup / scratch files
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+desktop.ini
+
+# Local notes / drafts
+DRAFTS/
+NOTES.md
+TODO.md
